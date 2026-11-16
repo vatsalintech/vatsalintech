@@ -12,13 +12,21 @@
 
 <br/>
 
+<div align="center">
+
 <a href="https://github.com/vatsalintech">
-  <img src="https://img.shields.io/badge/GitHub-vatsalintech-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.ufl.edu/">
-  <img src="https://img.shields.io/badge/University_of_Florida-Gator-FA4616?style=for-the-badge&logo=academia&logoColor=white" />
+&nbsp;
+<a href="https://www.linkedin.com/in/vatsalshahofficial/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Data%20Science-0891B2?style=for-the-badge" />
+&nbsp;
+<a href="mailto:workwithvatsalshah@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
 
 </div>
 
@@ -32,47 +40,16 @@ My interests lie at the intersection of **Machine Learning, Data Science, Artifi
 
 I enjoy working across the entire development lifecycle — from exploring and preprocessing raw datasets to developing predictive models, evaluating performance, and deploying interactive applications.
 
-- 🎓 Pursuing an **M.S. in Computer Science** at the University of Florida.
-- 🤖 Previously worked as an **AI Engineer**, developing machine learning solutions and predictive analytics.
-- 💻 Currently working as a **Software Engineer** on full-stack and computer vision applications.
-- 📊 Experienced in data analysis, predictive modeling, NLP, and automated reporting pipelines.
-- 🔬 Published research in AI-powered agriculture and NLP-based text classification.
-- 🚀 Currently building **DataDoctor**, a dataset health analyzer that helps identify data quality issues and understand their impact on machine learning performance.
-- 🌱 Always learning, experimenting, and building something new.
+<ul>
+  <li>🎓 Pursuing an <strong>M.S. in Computer Science</strong> at the University of Florida.</li>
+  <li>🤖 Previously worked as an <strong>AI Engineer</strong>, developing machine learning solutions and predictive analytics.</li>
+  <li>💻 Currently working as a <strong>Software Engineer</strong> at <a href="https://vaela.ai/"><strong>Vaela</strong></a>.</li>
+  <li>📊 Experienced in data analysis, predictive modeling, NLP, and automated reporting pipelines.</li>
+  <li>🔬 Published research in <strong>Artificial Intelligence and Machine Learning</strong>, across diverse application domains.</li>
+  <li>🌱 Always learning, experimenting, and building something new.</li>
+</ul>
 
 **My philosophy:** Great machine learning starts with understanding your data, asking the right questions, and building solutions that make a measurable difference.
-
----
-
-## 🛠️ Technical Skills
-
-### Programming & Data Analysis
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-### Artificial Intelligence & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-0891B2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Predictive_Analytics-0F766E?style=for-the-badge" />
-</p>
-
-### Development & Deployment
-
-<p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full--Stack_Development-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automated_Data_Pipelines-0F766E?style=for-the-badge" />
-</p>
 
 ---
 
@@ -94,7 +71,6 @@ An interactive data quality analysis application designed to identify dataset pr
 
 **Tech Stack:** Python · Pandas · NumPy · Scikit-learn · Streamlit
 
-🔗 [Explore my GitHub repositories](https://github.com/vatsalintech?tab=repositories)
 
 ---
 
@@ -126,26 +102,10 @@ An NLP-based research project exploring text classification approaches for ident
 
 ## 🎓 Education
 
-**University of Florida**  
-Master of Science in Computer Science
-
-GPA: 3.93 / 4.00
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vatsalintech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Vatsal's GitHub Statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalintech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=vatsalintech&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" width="70%" />
-
-</div>
+| **Degree** | **Institution** | **GPA** |
+|---|---|:---:|
+| **M.S. in Computer Science** | University of Florida, Gainesville, FL | 3.93 / 4.00 |
+| **B.E. in Information Technology** <br/> *Honors in Artificial Intelligence and Machine Learning (AIML)* | University of Mumbai, India | 9.13 / 10.00 |
 
 ---
 
@@ -158,10 +118,13 @@ Whether it's collaborating on a project, discussing research, or exploring oppor
 <div align="center">
 
 <a href="https://github.com/vatsalintech">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/vatsalshahofficial/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:workwithvatsalshah@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br/><br/>
