@@ -53,6 +53,7 @@ I enjoy working across the entire development lifecycle — from exploring and p
 
 ---
 
+
 ## 🚀 Featured Projects
 
 ### 🩺 DataDoctor — Dataset Health Analyzer
@@ -71,6 +72,15 @@ An interactive data quality analysis application designed to identify dataset pr
 
 **Tech Stack:** Python · Pandas · NumPy · Scikit-learn · Streamlit
 
+---
+
+## 📚 Publications
+
+### 🛡️ ChatGuard — Profanity Classification
+
+An NLP-based research project exploring text classification approaches for identifying profanity and supporting safer online conversations.
+
+**Publication:** *ChatGuard: A Profanity Classification Approach for Safer Online Conversations* — IEEE IDICAIEI, 2024. - [Link](https://ieeexplore.ieee.org/document/10406633)
 
 ---
 
@@ -78,15 +88,8 @@ An interactive data quality analysis application designed to identify dataset pr
 
 Research project focused on leveraging artificial intelligence to support smarter agricultural practices.
 
-**Publication:** *Krishi Mitra: Growing Smarter with AI-Powered Farming* — IJCST, 2024.
+**Publication:** *Krishi Mitra: Growing Smarter with AI-Powered Farming* — IJCST, 2024. - [Link](https://www.indjcst.com/archives/krishi-mitra-growing-smarter-with-ai-powered-farming)
 
----
-
-### 🛡️ ChatGuard — Profanity Classification
-
-An NLP-based research project exploring text classification approaches for identifying profanity and supporting safer online conversations.
-
-**Publication:** *ChatGuard: A Profanity Classification Approach for Safer Online Conversations* — IEEE IDICAIEI, 2024.
 
 ---
 
