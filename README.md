@@ -14,10 +14,6 @@
 
 <div align="center">
 
-<a href="https://github.com/vatsalintech">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
 <a href="https://www.linkedin.com/in/vatsalshahofficial/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -120,9 +116,6 @@ Whether it's collaborating on a project, discussing research, or exploring oppor
 
 <div align="center">
 
-<a href="https://github.com/vatsalintech">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
 <a href="https://www.linkedin.com/in/vatsalshahofficial/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
