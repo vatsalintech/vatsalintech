@@ -52,7 +52,7 @@ I enjoy working across the entire development lifecycle — from exploring and p
 
 ## 🚀 Featured Projects
 
-### 🩺 DataDoctor — Dataset Health Analyzer
+### 🩺 DataDoctor — Dataset Health Analyzer - [Link](https://datadoctorai.streamlit.app/)
 
 **Making machine learning more reliable, one dataset at a time.**
 
